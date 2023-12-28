@@ -54,10 +54,13 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <p align="center">
   <img height="197" src="https://github-readme-stats-bqhz.vercel.app/api?username=bum1005&show_icons=true&hide_border=true&theme=dracula&count_private=true" alt="GitHub Stats">
   <img height="197" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bum1005&layout=donut&show_icons=true&hide_border=true&theme=dracula&count_private=true" alt="Top Languages">
-</p>
-<img height="310" src="https://github-readme-streak-stats.herokuapp.com?user=bum1005&hide_border=true&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
 
-  <img src="https://leetcard.jacoblin.cool/bumer1005?theme=nord&font=Andada%20Pro&ext=heatmap" alt="LeetCode Stats" style="width: 100%;">
+  <img height="310" src="https://github-readme-streak-stats.herokuapp.com?user=bum1005&hide_border=true&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://leetcard.jacoblin.cool/bumer1005?theme=nord&font=Andada%20Pro&ext=heatmap" alt="LeetCode Stats" style="width: 100%;height: 250px;">
+</p>
+
+
+  
 
 
 </p>
