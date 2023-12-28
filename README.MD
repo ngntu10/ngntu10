@@ -51,10 +51,10 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <br>
 <p align="center" >
 
-![GitHub Stats](https://github-readme-stats-bqhz.vercel.app/api?username=bum1005&show_icons=true&hide_border=true&theme=dracula&count_private=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bum1005&count_weight=0.9&hide_border=true&layout=compact&theme=dracula&langs_count=10) 
+![GitHub Stats](https://github-readme-stats-bqhz.vercel.app/api?username=bum1005&show_icons=true&hide_border=true&theme=dracula&count_private=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bum1005&layout=donut&theme=dracula)
   <img height="310" src="https://github-readme-streak-stats.herokuapp.com?user=bum1005&hide_border=true&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
 
-  ![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=bumer1005&theme=nightowl)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/bumer1005?theme=nord&font=Andada%20Pro&ext=heatmap&width="100%")
 
 </p>
 <br><br>
