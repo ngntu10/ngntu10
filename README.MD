@@ -51,7 +51,7 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <br>
 <p align="center" >
 
-![GitHub Stats](https://github-readme-stats-bqhz.vercel.app/api?username=bum1005&show_icons=true&hide_border=true&theme=dracula&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bum1005&size_weight=0.1&count_weight=0.9&hide_border=true&layout=compact&theme=dracula&langs_count=10)
+![GitHub Stats](https://github-readme-stats-bqhz.vercel.app/api?username=bum1005&show_icons=true&hide_border=true&size_weight=0.1&theme=dracula&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bum1005&size_weight=0.1&count_weight=0.9&hide_border=true&layout=compact&theme=dracula&langs_count=10)
 
 
 
