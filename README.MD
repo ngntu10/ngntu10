@@ -65,7 +65,7 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 
   <img style="min-width: 100%;" height="310" src="https://github-readme-streak-stats.herokuapp.com?user=bum1005&hide_border=true&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
  
-  <img style="min-width: 100%;" src="https://leetcard.jacoblin.cool/bumer1005?theme=nord&font=Solway&ext=contest" alt="LeetCode Stats">
+  <img style="min-width: 100%;" src="https://leetcard.jacoblin.cool/bumer1005?theme=nord&font=Solway&ext=contest&width=1000&height=350" alt="LeetCode Stats">
 </p>
 
   
