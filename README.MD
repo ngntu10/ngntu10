@@ -56,10 +56,10 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 ### ⚙️ Back-end 
 
 <img align="left" alt="springboot" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
-<img align="left" alt="express" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="graphql" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
 <img align="left" alt="nodejs" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="pug" width="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
+<img align="left" alt="express" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 
 <br />
 <br />
@@ -82,7 +82,19 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
-<img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br />
+<img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+<br />
+
+<br/>
+<hr>
+
+### 🔩 Others
+
+<img align="left" alt="docker" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="figma" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img align="left" alt="linux" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="getpostman" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<br />
 
 <br/>
 <hr>
