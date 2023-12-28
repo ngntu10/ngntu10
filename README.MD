@@ -21,8 +21,6 @@ My favorite quotes:
 > While teaching, we learn. While learning, we teach.
 
 
-<hr>  
-
 ### 🤝 Connect with Me
 <p align="left">
 <a href="https://www.facebook.com/phamnguyentu04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phamnguyentu04" height="30" width="40" /></a>
@@ -51,15 +49,11 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 
 ### Stats
 <br>
-<!-- <a href="https://github-readme-stats.vercel.app/api?username=bum1005&show_icons=true&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&icon_color=713abe&ring_color=fcbaad"> -->
-  <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bum&show_icons=true&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&icon_color=713abe&ring_color=fcbaad" /> -->
-<!-- </a> -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bum1005&show_icons=true&theme=tokyonight)
-
-<!-- <a href=https://github-readme-stats.vercel.app/api?username=bum1005&show_icons=true&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&icon_color=713abe&ring_color=fcbaad">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bum1005&layout=compact&langs_count=8&card_width=320&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&hide=c,roff,Makefile,Lua,Swift,Objective-C,html,css,tsql,scss" />
-</a> -->
+<p align="center" >
+  <img height="197" src="https://github-readme-stats-bqhz.vercel.app/api?username=cnmeow&show_icons=true&hide_border=true&theme=dracula&count_private=true">
+  <img height="197" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnmeow&size_weight=0.1&count_weight=0.9&hide_border=true&layout=compact&theme=dracula&langs_count=10">
+  <img height="310" src="https://github-readme-streak-stats.herokuapp.com?user=cnmeow&hide_border=true&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+</p>
 <br><br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bumer1005?theme=nord&font=Andada%20Pro&ext=heatmap)
