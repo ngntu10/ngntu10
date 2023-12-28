@@ -2,7 +2,7 @@
 
 💡 I am highly motivated and passionate about Software Engineering. My dream is to leverage my skills in cutting-edge technologies within the realm of software development to address real-world challenges and enhance customer outcomes. This is me, **Pham Nguyen Tu**
 
-![Profile views](https://gpvc.arturio.dev/[bum1005])
+![Profile views](https://gpvc.arturio.dev/bum1005)
 
 <img align="right" alt="GIF" src="./Progamming.gif" width="350"/>
 
