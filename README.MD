@@ -10,7 +10,7 @@
 
 ### ℹ️ About Me
 - 🎓 &nbsp; I'm currently a student at University of Information Technology (VNUHCM - UIT).
-- 💪 &nbsp; I'm still learning lots of things to be a back-end developer, then DevOps engineer (maybe 😁).
+- 🔭 I’m currently learning **Algorithms,Frontend,Backend**
 - ❤️ &nbsp; Coding, watching movies, anime, listening to music, doing stuff on Linux.
 
 My favorite quotes:
