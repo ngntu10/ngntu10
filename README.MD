@@ -40,7 +40,7 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <br/>
 
 
-### ![Alt text](image.png) Front-end
+### 👀 Front-end
 
 <img align="left" alt="bootstrap" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
@@ -50,6 +50,18 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <img align="left" alt="redux" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img align="left" alt="sass" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
 <br />
+<br/>
+
+### ⚙️ Back-end 
+
+<img align="left" alt="express" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="graphql" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
+<img align="left" alt="nodejs" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="pug" width="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
+<img align="left" alt="springboot" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
+<br />
+
+<br/>
 
 ### 🛠 Technologies
 
