@@ -86,7 +86,6 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <br />
 
 <br/>
-<hr>
 
 ### 🔩 Others
 
