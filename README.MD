@@ -13,15 +13,14 @@
 - 🔭 I’m currently learning **Algorithms,Frontend,Backend**
 - ❤️ &nbsp; Coding, watching movies, anime, listening to music, doing stuff on Linux.
 
-My favorite quotes:
-> While teaching, we learn. While learning, we teach.
+<!-- My favorite quotes:
+> While teaching, we learn. While learning, we teach. -->
 
 ### 🤝 Connect with Me
-
-<p align="center">
-&nbsp; <a href="https://facebook.com/phamnguyentu04" target="_blank" rel="noopener noreferrer"><img src="./img/FB-logo.jpg" width="50" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/phamnguyentu04" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="50"/></a>
-</p>
+<p align="left">
+<a href="https://twitter.com/nqkdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nqkdeveloper" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/phamnguyentu04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+alt="phamnguyentu04" height="30" width="40" /></a>
 
 ### 👨🏼‍💻 Languages
 - Java
