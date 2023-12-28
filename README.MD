@@ -2,7 +2,7 @@
 
 💡 I am highly motivated and passionate about Software Engineering. My dream is to leverage my skills in cutting-edge technologies within the realm of software development to address real-world challenges and enhance customer outcomes. This is me, **Pham Nguyen Tu**
 
-![Profile views](https://gpvc.arturio.dev/bum1005)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bum1005&label=Profile%20views&color=0e75b6&style=flat" alt="bum1005" /> </p>
 
 <img align="right" alt="GIF" src="./Progamming.gif" width="350"/>
 
@@ -10,10 +10,9 @@
 
 - 🎓 &nbsp; I'm currently a student at University of Information Technology (VNUHCM - UIT).
 - 🔭 I’m currently learning **Algorithms,Frontend,Backend**
-- ❤️ &nbsp; Coding, watching movies, anime, listening to music, doing stuff on Linux.
-- 💬 Ask me about AI/ML/DL, Algorithms
+- 💬 Ask me about Algo/FE/BE
 
-My favorite quotes:
+My quotes:
 
 > While teaching, we learn. While learning, we teach.
 
@@ -28,11 +27,10 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 
 <hr>
 
-### 👨🏼‍💻 Languages
+### 👨🏼‍💻 Languages and tools
 
-- Java
-- C/C++
-- JavaScript
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ### 🛠 Technologies
 
