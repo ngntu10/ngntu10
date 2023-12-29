@@ -58,7 +58,6 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <img align="left" alt="springboot" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
 <!-- <img align="left" alt="graphql" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" /> -->
 <img align="left" alt="nodejs" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="pug" width="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
 <img align="left" alt="express" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 
 <br />
