@@ -2,7 +2,7 @@
 
 💡 I am highly motivated and passionate about Software Engineering. My dream is to leverage my skills in cutting-edge technologies within the realm of software development to address real-world challenges and enhance customer outcomes. This is me, **Pham Nguyen Tu**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bum1005&label=Profile%20views&color=0e75b6&style=flat" alt="bum1005" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngntu10&label=Profile%20views&color=0e75b6&style=flat" alt="ngntu10" /> </p>
 
 <img align="right" alt="GIF" src="./Progamming.gif" width="350"/>
 
@@ -102,19 +102,19 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <br>
 
 <!-- <p align="center" width="100vh">
-  <img height="197" src="https://github-readme-stats-bqhz.vercel.app/api?username=bum1005&show_icons=true&hide_border=true&theme=dracula&count_private=true" alt="GitHub Stats">
-  <img height="197" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bum1005&layout=donut&show_icons=true&hide_border=true&theme=dracula&count_private=true" alt="Top Languages">
+  <img height="197" src="https://github-readme-stats-bqhz.vercel.app/api?username=ngntu10&show_icons=true&hide_border=true&theme=dracula&count_private=true" alt="GitHub Stats">
+  <img height="197" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngntu10&layout=donut&show_icons=true&hide_border=true&theme=dracula&count_private=true" alt="Top Languages">
 
-  <img height="310" src="https://github-readme-streak-stats.herokuapp.com?user=bum1005&hide_border=true&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+  <img height="310" src="https://github-readme-streak-stats.herokuapp.com?user=ngntu10&hide_border=true&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/bumer1005?theme=nord&font=Solway&ext=contest)
 </p> -->
 
 <p align="center" width="100vh">
-  <img height="197" src="https://github-readme-stats-bqhz.vercel.app/api?username=bum1005&show_icons=true&hide_border=true&theme=dracula&count_private=true" alt="GitHub Stats">
-  <img height="197" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bum1005&layout=donut&show_icons=true&hide_border=true&theme=dracula&count_private=true" alt="Top Languages">
+  <img height="197" src="https://github-readme-stats-bqhz.vercel.app/api?username=ngntu10&show_icons=true&hide_border=true&theme=dracula&count_private=true" alt="GitHub Stats">
+  <img height="197" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngntu10&layout=donut&show_icons=true&hide_border=true&theme=dracula&count_private=true" alt="Top Languages">
 
-  <img style="min-width: 100%;" height="310" src="https://github-readme-streak-stats.herokuapp.com?user=bum1005&hide_border=true&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+  <img style="min-width: 100%;" height="310" src="https://github-readme-streak-stats.herokuapp.com?user=ngntu10&hide_border=true&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
  
   <!-- <img style="min-width: 100%;" src="https://leetcard.jacoblin.cool/bumer1005?theme=nord&font=Solway&ext=contest&width=785&height=350&hide=ranking" alt="LeetCode Stats"> -->
 </p>
