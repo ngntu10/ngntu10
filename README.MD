@@ -42,13 +42,13 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 
 ### 👀 Front-end
 
-<img align="left" alt="bootstrap" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="pug" width="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
 <img align="left" alt="react" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="redux" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img align="left" alt="sass" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+<img align="left" alt="bootstrap" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <br />
 <br/>
 <br />
@@ -56,7 +56,6 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 ### ⚙️ Back-end 
 
 <img align="left" alt="springboot" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
-<img align="left" alt="graphql" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
 <img align="left" alt="nodejs" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="express" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 
@@ -104,9 +103,9 @@ alt="phamnguyentu04" height="30" width="40" /></a>
  
 <p align="center" width="100vh">
   <img height="197" src="https://github-readme-stats-bqhz.vercel.app/api?username=ngntu10&show_icons=true&hide_border=true&theme=dracula&count_private=true" alt="GitHub Stats">
-  <img height="197" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngntu10&layout=donut&show_icons=true&hide_border=true&theme=dracula&count_private=true" alt="Top Languages"> -->
+  <img height="197" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngntu10&layout=donut&show_icons=true&hide_border=true&theme=dracula&count_private=true" alt="Top Languages"> 
 
-  <img style="min-width: 100%;" height="310" src="https://github-readme-streak-stats.herokuapp.com?user=ngntu10&hide_border=true&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"> -->
+  <img style="min-width: 100%;" height="310" src="https://github-readme-streak-stats.herokuapp.com?user=ngntu10&hide_border=true&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
  
 <img style="min-width: 100%;" src="https://leetcard.jacoblin.cool/bumer1005?theme=nord&font=Solway&ext=contest&width=785&height=350&hide=ranking" alt="LeetCode Stats">
  </p>
