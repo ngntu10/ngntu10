@@ -42,3 +42,4 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <hr> 
 ![](https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/languages.svg#gh-light-mode-only)
+https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/overview.svg#gh-light-mode-only
