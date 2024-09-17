@@ -33,12 +33,13 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <img height="197" src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview" />
   
   <img height="197" src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages" />
-
+![GitHub Stats Overview](https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/overview.svg)
+![Top Languages](https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/languages.svg)
+![alt text](https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/overview.svg)
  </p>
 
 </p>
 <br><br>
 
 <hr> 
-![GitHub Stats Overview](https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/overview.svg)
-![Top Languages](https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/languages.svg)
+
