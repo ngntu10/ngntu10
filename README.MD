@@ -27,5 +27,7 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 
 <hr>
 
+<img src="https://github.com/ngntu10/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/ngntu10/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 
 
