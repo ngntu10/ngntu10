@@ -107,7 +107,7 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 
   <img style="min-width: 100%;" height="310" src="https://github-readme-streak-stats.herokuapp.com?user=ngntu10&hide_border=true&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
  
-<img style="min-width: 100%;" src="https://leetcard.jacoblin.cool/bumer1005?theme=nord&font=Solway&ext=contest&width=785&height=350&hide=ranking" alt="LeetCode Stats">
+![](https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/overview.svg#gh-light-mode-only)
  </p>
 
 </p>
