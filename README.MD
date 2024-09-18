@@ -1,10 +1,14 @@
+<!-- <a href="#" target="_blank">
+  <img src="svg/ngntu10.svg" width="1200" alt="ngntu10-official" />
+</a> -->
+
 ## 🌱 Hi there! I'm Pham Nguyen Tu (Bum), a Software Engineer from Viet Nam <img src="/Handwave.gif" width="25">
 
 💡 I am highly motivated and passionate about Software Engineering. My dream is to leverage my skills in cutting-edge technologies within the realm of software development to address real-world challenges and enhance customer outcomes. This is me, **Pham Nguyen Tu**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngntu10&label=Profile%20views&color=0e75b6&style=flat" alt="ngntu10" /> </p>
 
-<img align="right" alt="GIF" src="./Progamming.gif" width="350"/>
+<img align="right" alt="GIF" src="svg/ngntu10.svg" width="350" margin="30" />
 
 ### ℹ️ About Me
 
