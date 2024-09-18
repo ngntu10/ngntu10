@@ -31,11 +31,12 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 
 <br>
 
-<img height="197" src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview" />
   
-<img height="197" src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages" />
+</div>
 
-</p>
 <br><br>
 
 <hr>
