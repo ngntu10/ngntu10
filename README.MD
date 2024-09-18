@@ -32,9 +32,9 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview" />
+  <img src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/overview.svg#gh-light-mode-only?raw=true" alt="GitHub Stats Overview" />
   
-  <img src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/languages.svg#gh-light-mode-only?raw=true" alt="Top Languages" />
 </div>
 
 <br><br>
