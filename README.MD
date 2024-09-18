@@ -28,16 +28,17 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <hr>
 
 ### Stats
-<br> 
-<p align="center" width="100vh">
-  <img height="197" src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview">
-  <img height="197" src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages"> 
 
- 
+<br> 
+<p align="center" width="100%">
+<img height="197" src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview" />
+  
+  <img height="197" src="https://raw.githubusercontent.com/ngntu10/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages" />
 
  </p>
 
 </p>
 <br><br>
 
-<hr> 
+<hr>
+
