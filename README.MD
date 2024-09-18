@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngntu10&label=Profile%20views&color=0e75b6&style=flat" alt="ngntu10" /> </p>
 
-<img align="right" alt="GIF" src="svg/ngntu10.svg" width="350" margin="30" />
+<img align="right" alt="GIF" src="svg/ngntu10.svg" width="350"/>
 
 ### ℹ️ About Me
 
