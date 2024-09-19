@@ -39,8 +39,5 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 
 <br><br>
 
-<hr>
+  <img src="svg/ngntu10.svg" alt="ngntu10-official" style="width: 100%;height:30%" />
 
-<a href="#" target="_blank" style="display: block; width: 100%; max-width: 100%;">
-  <img src="svg/ngntu10.svg" alt="ngntu10-official" style="width: 100%" />
-</a>
