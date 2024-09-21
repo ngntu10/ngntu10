@@ -20,7 +20,7 @@ My quotes:
 
 <p align="left">
 <a href="https://www.facebook.com/phamnguyentu04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phamnguyentu04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/phamnguyentu04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+<a href="https://linkedin.com/in/ngntu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
 alt="phamnguyentu04" height="30" width="40" /></a>
 <a href="https://twitter.com/bumer1005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phamnguyentu04" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bum_0504/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bum_0504" height="30" width="40" /></a>
@@ -40,4 +40,3 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 <br><br>
 
   <img src="svg/ngntu10.svg" alt="ngntu10-official" style="width: 100%;height:30%" />
-
