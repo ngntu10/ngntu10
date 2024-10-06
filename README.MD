@@ -6,7 +6,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=ngntu10&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
-
 <img align="right" alt="GIF" src="./Progamming.gif" width="350"/>
 
 ### ℹ️ About Me
@@ -42,4 +41,4 @@ alt="phamnguyentu04" height="30" width="40" /></a>
 
 <br><br>
 
-  <img src="svg/ngntu10.svg" alt="ngntu10-official" style="width: 100%;height:30%" />
+  <!-- <img src="svg/ngntu10.svg" alt="ngntu10-official" style="width: 100%;height:30%" /> -->
