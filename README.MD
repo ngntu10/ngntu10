@@ -8,15 +8,7 @@
 
 <img align="right" alt="GIF" src="./Progamming.gif" width="350"/>
 
-### ℹ️ About Me
 
-- 🎓 &nbsp; I'm currently a student at University of Information Technology (VNUHCM - UIT).
-- 🔭 I’m currently learning **Algorithms,Frontend,Backend**
-- 💬 Ask me about Algo/FE/BE
-
-My quotes:
-
-> While teaching, we learn. While learning, we teach.
 
 ### 🤝 Connect with Me
 
