@@ -10,8 +10,8 @@
 
 ### ℹ️ About Me
 
-- 🎓 &nbsp; I'm currently working in Naver.
-- 🔭 I’m currently learning **Algorithms,Frontend,Backend**
+- 🔭 &nbsp; I'm currently working in Naver.
+- 🎓 I’m currently learning **Algorithms,Frontend,Backend**
 - 💬 Ask me about Algo/FE/BE
 
 My quotes:
