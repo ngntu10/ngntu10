@@ -10,8 +10,7 @@
 
 ### ℹ️ About Me
 
-- 🎓 &nbsp; I'm currently working in Naver ![Naver Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naver_Logotype.svg/1024px-Naver_Logotype.svg.png)
-.
+- 🎓 &nbsp; I'm currently working in Naver.
 - 🔭 I’m currently learning **Algorithms,Frontend,Backend**
 - 💬 Ask me about Algo/FE/BE
 
