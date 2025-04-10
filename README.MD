@@ -10,7 +10,8 @@
 
 ### ℹ️ About Me
 
-- 🎓 &nbsp; I'm currently a student at University of Information Technology (VNUHCM - UIT).
+- 🎓 &nbsp; I'm currently working in Naver ![Naver Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naver_Logotype.svg/1024px-Naver_Logotype.svg.png)
+.
 - 🔭 I’m currently learning **Algorithms,Frontend,Backend**
 - 💬 Ask me about Algo/FE/BE
 
