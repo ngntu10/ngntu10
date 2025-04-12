@@ -11,7 +11,7 @@
 ### ℹ️ About Me
 
 - 🔭 &nbsp; I'm currently working in Naver.
-- 🎓 I’m currently learning **Algorithms,Frontend,Backend**
+- 🎓 I’m currently learning **Algorithms, Backend, Devops, Frontend**
 - 💬 Ask me about Algo/FE/BE
 
 My quotes:
