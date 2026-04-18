@@ -21,19 +21,24 @@ My quotes:
 ### 🤝 Connect with Me
 
 <p align="left">
-  <span style="display: flex; align-items: center; gap: 20px;">
+  <span style="display: flex; align-items: center; gap: 16px;">
+    
     <a href="https://www.facebook.com/phamnguyentu04/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" style="height:30px; display:block;" />
     </a>
+
     <a href="https://linkedin.com/in/ngntu10" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="height:30px; display:block;" />
     </a>
+
     <a href="https://twitter.com/bumer1005" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="height:30px; display:block;" />
     </a>
+
     <a href="https://www.instagram.com/bum_0504/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="height:30px; display:block;" />
     </a>
+
   </span>
 </p>
 
