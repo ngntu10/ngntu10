@@ -21,7 +21,7 @@ My quotes:
 ### 🤝 Connect with Me
 
 <p align="left">
-  <span style="display: flex; align-items: center; gap: 10px;">
+  <span style="display: flex; align-items: center; gap: 20px;">
     <a href="https://www.facebook.com/phamnguyentu04/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
     </a>
